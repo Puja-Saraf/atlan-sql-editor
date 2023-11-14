@@ -1,6 +1,5 @@
 /*eslint-disable*/
 import React, { useMemo, useRef, useState } from "react";
-import trie from "../utilities/KeywordSuggestion";
 
 export default function SQLEditor({ code, setCode }) {
 
