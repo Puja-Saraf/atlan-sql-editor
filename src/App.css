@@ -1,0 +1,11 @@
+.ag-theme-alpine {
+    --ag-background-color: #ffffff7e;
+    --ag-header-foreground-color: white;
+    --ag-header-background-color: #427D9D;
+    --ag-odd-row-background-color: #9bbec835;
+    --ag-header-column-resize-handle-color: white;
+    --ag-header-column-resize-handle-hover-color: white;
+    --ag-font-size: 1rem;
+}
+
+.ag-root-wrapper { border-radius: 10px }
